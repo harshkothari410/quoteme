@@ -1,0 +1,4 @@
+quoteme
+=======
+
+Inner circle project
